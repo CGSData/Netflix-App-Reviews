@@ -1,8 +1,10 @@
 # Netflix
 Project Overview
+
 This project focuses on performing sentiment analysis on user reviews of a mobile application. The goal is to classify the reviews into three categories: positive, negative, and neutral. The analysis is conducted using natural language processing (NLP) techniques and machine learning models, such as Logistic Regression and Naive Bayes, to understand the general sentiment of users towards the app.
 
 Data Overview
+
 The dataset consists of two main columns:
 * reviews: The text reviews provided by users.
 * score: A numerical rating (score) given by the user, reflecting their satisfaction with the app.
