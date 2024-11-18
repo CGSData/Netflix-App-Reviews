@@ -24,4 +24,5 @@ Tools and Technologies
 * TF-IDF: A text vectorization technique used to convert text data into numerical format.
   
 Conclusion
+
 This project successfully implements a sentiment analysis model that can classify mobile app reviews into positive, negative, and neutral categories. The use of NLP techniques and machine learning models helps in understanding user feedback and can be used to improve app features based on user sentiment.
